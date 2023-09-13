@@ -10,7 +10,7 @@
     "prepare": "husky install",
     "commit": "git-cz"
   },
-  "author": "",
+  "author": "darkCloud",
   "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^17.7.1",

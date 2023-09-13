@@ -7,7 +7,7 @@ module.exports = {
     { value: 'style', name: '格式：不影响代码运行的变动、空格、格式化等等' },
     { value: 'ui', name: 'ui修改：布局、css样式等等' },
     { value: 'hotfix', name: 'bug：修复线上紧急bug' },
-    { value: 'build', name: '测试：添加一个测试' },
+    { value: 'build', name: '打包项目' },
     { value: 'refactor', name: '重构：代码重构，未新增任何功能和修复任何bug' },
     { value: 'revert', name: '回滚：代码回退到某个版本节点' },
     { value: 'perf', name: '优化：提升性能、用户体验等' },
