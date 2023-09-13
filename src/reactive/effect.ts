@@ -12,6 +12,3 @@
 // function clearUp(fn) {
 //   effectFn.deps.forEach(deps.delete(fn));
 // }
-
-const a = 'xx';
-console.log(a);

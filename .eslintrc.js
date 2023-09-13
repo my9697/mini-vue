@@ -21,7 +21,7 @@ module.exports = {
     sourceType: 'module',
     project: './tsconfig.json',
   },
-  ignorePatterns: ['.eslintrc.*', 'prettier.config.*', 'vite.config.*'],
+  ignorePatterns: ['.eslintrc.*', 'prettier.config.*', 'vite.config.*', 'commitlint.config.*'],
   rules: {
     '@typescript-eslint/explicit-function-return-type': 'off',
   },
